@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=500&lines=Hi%2C+I'm+Kamaludin+Kamali" alt="Typing Intro" />
+</h1>
 
-<!--
-**Kamali6626/Kamali6626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="right">
+  <!-- 🇵🇰 Animated Pakistan Flag GIF 🇵🇰 -->
+  <img src="https://www.animatedimages.org/data/media/850/animated-pakistan-flag-image-0015.gif" alt="Animated Pakistan Flag" width="140"/>
+</div>
 
-Here are some ideas to get you started:
+### ⚔️ CodeForces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![Codeforces Problems](https://img.shields.io/badge/Codeforces%20Problems%20Solved-70-blueviolet?style=for-the-badge&logo=Codeforces)
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Kamali6626&theme=dark" />
+
+</div>
+
+---
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamaludeen6626@gmail.com) 
+
+## 🔥 daily commitment
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Kamali6626&theme=dark)
+
+## 📬 get in touch
+📫 **contact me**: [email](mailto:kamaludeen6626@gmail.com)
