@@ -9,13 +9,13 @@
 
 ### ⚔️ CodeForces
 
-<div align="center">
+<!-- <div align="center">
 
 ![Codeforces Problems](https://img.shields.io/badge/Codeforces%20Problems%20Solved-70-blueviolet?style=for-the-badge&logo=Codeforces)
 
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Kamali6626&theme=dark" />
 
-</div>
+</div> -->
 
 ---
 ## 🌐 Socials:
