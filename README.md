@@ -7,8 +7,9 @@
   <img src="https://www.animatedimages.org/data/media/850/animated-pakistan-flag-image-0015.gif" alt="Animated Pakistan Flag" width="140"/>
 </div>
 
-//### ⚔️ CodeForces
-
+<!-- <h1>
+### ⚔️ CodeForces
+</h1> -->
 <!-- <div align="center">
 
 ![Codeforces Problems](https://img.shields.io/badge/Codeforces%20Problems%20Solved-70-blueviolet?style=for-the-badge&logo=Codeforces)
