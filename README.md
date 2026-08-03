@@ -20,8 +20,9 @@
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamaludeen6626@gmail.com) 
 
-## 🔥 daily commitment
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=Kamali6626&theme=dark)]
+## 🔥 Daily Commitment
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kamali6626&theme=dark)](https://git.io/streak-stats)
 
 ## 📬 get in touch
 📫 **contact me**: [email](mailto:kamaludeen6626@gmail.com)
