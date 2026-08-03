@@ -9,7 +9,7 @@
 < <h1>
 ### ⚔️ CodeForces
 </h1> 
-<!-- <div align="center">
+ <div align="center">
 
 ![Codeforces Problems](https://img.shields.io/badge/Codeforces%20Problems%20Solved-70-blueviolet?style=for-the-badge&logo=Codeforces)
 
