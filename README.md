@@ -6,17 +6,16 @@
   <!-- 🇵🇰 Animated Pakistan Flag GIF 🇵🇰 -->
   <img src="https://www.animatedimages.org/data/media/850/animated-pakistan-flag-image-0015.gif" alt="Animated Pakistan Flag" width="140"/>
 </div>
-
-<!-- <h1>
+< <h1>
 ### ⚔️ CodeForces
-</h1> -->
+</h1> 
 <!-- <div align="center">
 
 ![Codeforces Problems](https://img.shields.io/badge/Codeforces%20Problems%20Solved-70-blueviolet?style=for-the-badge&logo=Codeforces)
 
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Kamali6626&theme=dark" />
 
-</div> -->
+</div>
 
 ---
 ## 🌐 Socials:
