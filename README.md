@@ -91,7 +91,8 @@
 
 ---
 
-## ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width="22">
+## ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kamali6626&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" alt="Kamali" />
 </p>
@@ -121,7 +122,6 @@
   <a href="https://github.com/Kamali6626">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamali6626&bg_color=000000&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="Kamali's github activity graph" />
   </a>
-</p>
 </p>
 
 ---
