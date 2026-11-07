@@ -46,7 +46,7 @@
          width="32"
          style="border-radius:50%; margin:0 10px;" />
   </a>
- <a href="https://www.linkedin.com/in/Kamaludin" target="_blank">
+ <a href="https://www.linkedin.com/in/kamal-udin-8857ba3a7/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin"
        alt="LinkedIn"
        width="32"
