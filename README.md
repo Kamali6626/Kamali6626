@@ -92,9 +92,8 @@
 ---
 
 ## ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width="22">
-
 <p align="center">
-  <img src="https://Kamali6626-github-stats.vercel.app/api/top-langs?username=Kamali6626&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" alt="Kamali" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kamali6626&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" alt="Kamali" />
 </p>
 
 ## ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ <img src="https://emojis.slackmojis.com/emojis/images/1692206783/67533/extreme-teamwork.gif?1692206783" width="22">
@@ -109,8 +108,9 @@
 
 <p align="center">
   <a href="https://github.com/Kamali6626">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamali6626&theme=high-contrast&bg_color=000000&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="PyKinsu's github activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamali6626&bg_color=000000&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="Kamali's github activity graph" />
   </a>
+</p>
 </p>
 
 ---
@@ -130,13 +130,13 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61578352443183" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-000000.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-000000.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kamal-udin-8857ba3a7/" target="_blank" aria-label="LinkedIn Profile">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  <a href="https://instagram.com/kamali_626" target="_blank" aria-label="Instagram Profile">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+ <a href="https://instagram.com/kamali_626" target="_blank" aria-label="Instagram Profile">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
 
