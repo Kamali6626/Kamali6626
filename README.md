@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=180&duration=3500&pause=1200&center=true&vCenter=true&width=1400&height=220&color=58A6FF&repeat=false&lines=Hi!%2C+I'm+Kamaludin+Kamali+" 
+      src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=140&duration=3500&pause=1200&center=true&vCenter=true&width=1400&height=220&color=58A6FF&repeat=false&lines=Hi!%2C+I'm+Kamaludin+Kamali+" 
       alt="Typing Quote" 
     />
   </a>
@@ -15,12 +15,12 @@
 <p align="center" style="margin-top:12px;">
   <img 
     alt="Currently Learning" 
-    src="https://img.shields.io/badge/Currently%20Learning-JavaScript%20|%20Python-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
+    src="https://img.shields.io/badge/Currently%20Learning-C++t%20|%20ASSEMBLY-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
   />
 </p>
 
 <p align="center" style="margin-top:12px;">
-  <a href="http://kamaludeen.vercel.app/" target="_blank">
+  <a href="http://kamaludeenportfolio.vercel.app/" target="_blank">
     <img 
       alt="Portfolio" 
       src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" 
@@ -28,7 +28,7 @@
   </a>
   <img 
     alt="Location"
-    src="https://img.shields.io/badge/BR%20India-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=white"
+    src="https://img.shields.io/badge/PAKISTAN-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=white"
   />
 </p>
 
@@ -46,8 +46,8 @@
          width="32"
          style="border-radius:50%; margin:0 10px;" />
   </a>
-  <a href="https://linkedln.com/pykinsu">
-    <img src="https://skillicons.dev/icons?i=twitter"
+  <a href="https://linkedln.com/Kamaludin">
+    <img src="https://skillicons.dev/icons?i=linkedln"
          width="32"
          style="border-radius:50%; margin:0 10px;" />
   </a>
@@ -128,13 +128,13 @@
   <a href="https://github.com/Kamali6626" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://t.me/pykinsu" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-000000.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://www.facebook.com/profile.php?id=61578352443183" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-000000.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kamal-udin-8857ba3a7/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/Kamaludin Kamali" target="_blank">
+  <a href="https://instagram.com/Kamaludin Kamali" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
