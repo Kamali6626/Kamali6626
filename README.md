@@ -15,7 +15,7 @@
 <p align="center" style="margin-top:12px;">
   <img 
     alt="Currently Learning" 
-    src="https://img.shields.io/badge/Currently%20Learning-C++t%20|%20ASSEMBLY-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
+    src="https://img.shields.io/badge/Currently%20Learning-C++%20|%20ASSEMBLY-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
   />
 </p>
 
@@ -100,7 +100,7 @@
 ## ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ <img src="https://emojis.slackmojis.com/emojis/images/1692206783/67533/extreme-teamwork.gif?1692206783" width="22">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-five-vert.vercel.app/?user=Kamali6626&theme=dark&date_format=j%20M%5B%20Y%5D" alt="pykinsu" />
+  <img src="https://github-readme-streak-stats-five-vert.vercel.app/?user=Kamali6626&theme=dark&date_format=j%20M%5B%20Y%5D" alt="kamai" />
 </p>
 
 ---
