@@ -95,6 +95,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kamali6626&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" alt="Kamali" />
 </p>
+## ⚔️ CodeForces
+</h1> 
+ <div align="center">
+![Codeforces Problems](https://img.shields.io/badge/Codeforces%20Problems%20Solved-70-blueviolet?style=for-the-badge&logo=Codeforces)
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Kamali6626&theme=dark" />
+
+</div>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Kamali6626&theme=dark" />
+
+</div>
 
 ## ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ <img src="https://emojis.slackmojis.com/emojis/images/1692206783/67533/extreme-teamwork.gif?1692206783" width="22">
 
