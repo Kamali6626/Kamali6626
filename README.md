@@ -46,11 +46,12 @@
          width="32"
          style="border-radius:50%; margin:0 10px;" />
   </a>
-  <a href="https://linkedln.com/Kamaludin">
-    <img src="https://skillicons.dev/icons?i=linkedln"
-         width="32"
-         style="border-radius:50%; margin:0 10px;" />
-  </a>
+ <a href="https://www.linkedin.com/in/Kamaludin" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin"
+       alt="LinkedIn"
+       width="32"
+       style="border-radius:50%; margin:0 10px;" />
+</a>
 </p>
 
 ---
@@ -131,12 +132,12 @@
   <a href="https://www.facebook.com/profile.php?id=61578352443183" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-000000.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/kamal-udin-8857ba3a7/" target="_blank">
+  <a href="https://www.linkedin.com/in/kamal-udin-8857ba3a7/" target="_blank" aria-label="LinkedIn Profile">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/Kamaludin Kamali" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+</a>
+  <a href="https://instagram.com/kamali_626" target="_blank" aria-label="Instagram Profile">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 </p>
 
 ---
